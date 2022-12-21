@@ -1,3 +1,5 @@
+package ExerciciosGeneration.LacosCondicionais;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
