@@ -1,6 +1,6 @@
 # ExerciciosGeneration
 
-Resolução dos execírcios do bootcamp Generation Brasil; 
+Resolução dos execírcios de JAVA do bootcamp Generation Brasil; 
 
 Programa Sequencial https://drive.google.com/file/d/1t2Dyo0AQ5_t4t2XQSE1PksxIrA4i9gL7/view?usp=sharing
 
